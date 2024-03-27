@@ -1,0 +1,3 @@
+/Users/cjcameron92/CLionProjects/supervisor/cmake-build-debug/CMakeFiles/supervisor.dir
+/Users/cjcameron92/CLionProjects/supervisor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/cjcameron92/CLionProjects/supervisor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
